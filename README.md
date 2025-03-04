@@ -9,7 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
 
 Importance:
-1. Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
+1. Reliability - it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
 
 2. Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 
